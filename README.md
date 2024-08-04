@@ -9,7 +9,7 @@ Github has many features which allows multiple people to contribute to the same 
 - Git allows anyone to request for new data (notes in our case) from the whole world (because anyone in the world can add new data/notes)
 - Git protects the old data/notes by keeping it separate from the newly added data by random strangers
 # How to use this?
-##Resources Folder Structure
+## Resources Folder Structure
 ```
 TU-B.Tech-3rd-sem/
 ├── Syllabus/
