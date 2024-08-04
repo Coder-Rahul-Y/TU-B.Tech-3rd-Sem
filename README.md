@@ -11,13 +11,18 @@ Github has many features which allows multiple people to contribute to the same 
 # How to use this?
 ## Resources Folder Structure
 ```
-TU-B.Tech-3rd-sem/
-├── Syllabus/
-│   ├── 3rd Sem Syllabus.docx
-│   └── 3rd Sem Syllabus.pdf
-├── Data-Structures-CO210/
-│   └── matrix_multiplication_analysis.md
-└── README.md
+.
+└── TU-B.Tech-3rd-sem/
+    ├── Syllabus/
+    │   ├── 3rd Sem Syllabus.pdf
+    │   └── 3rd Sem Syllabus.docx
+    ├── Data-Structures-CO210/
+    │   ├── matrix_multiplication_analysis.md
+    │   └── Assets/
+    │       └── images/
+    │           ├── matrix_multiplication.jpeg
+    │           └── matrix_illustration.jpeg
+    └── README.md
 ```
 ## How to download notes:
 Downloading data/notes is the simplest task.
