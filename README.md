@@ -9,6 +9,16 @@ Github has many features which allows multiple people to contribute to the same 
 - Git allows anyone to request for new data (notes in our case) from the whole world (because anyone in the world can add new data/notes)
 - Git protects the old data/notes by keeping it separate from the newly added data by random strangers
 # How to use this?
+## Resources Folder Structure
+```
+TU-B.Tech-3rd-sem/
+├── Syllabus/
+│   ├── 3rd Sem Syllabus.docx
+│   └── 3rd Sem Syllabus.pdf
+├── Data-Structures-CO210/
+│   └── matrix_multiplication_analysis.md
+└── README.md
+```
 ## How to download notes:
 Downloading data/notes is the simplest task.
 1. Click on the green "Code" button
